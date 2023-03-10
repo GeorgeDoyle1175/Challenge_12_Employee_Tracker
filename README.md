@@ -35,3 +35,5 @@ The application uses a MySQL database to store and retrieve employee data. The d
 * department
 * role
 * employee
+
+You can find the application viewing at https://youtu.be/OiPBjZ1aGRw
